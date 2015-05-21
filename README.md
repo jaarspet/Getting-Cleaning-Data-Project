@@ -1,7 +1,4 @@
-# Getting-Cleaning-Data-Project
-Getting and Cleaning Data Project
-
-Getting and Cleaning Data Course Project Readme
+# Getting-Cleaning-Data-Project ReadMe
 
 Pre-work: Load the data and useful packages 
 
